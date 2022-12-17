@@ -4,7 +4,7 @@ git commit -m "message" -> commit files
 
 git push -> push changes to github
 
-demo url -> https://koradiyanirav.github.io/w3school/
+demo url -> https://koradiyanirav.github.io/adobetailwinddemo/
 
 
 - 👋 Hi, I’m @koradiyanirav
