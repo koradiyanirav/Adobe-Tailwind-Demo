@@ -1,8 +1,8 @@
-git add .                   -> add files
-git commit -m "message"     -> commit files
-git push                    -> push changes to github
+git add . -> add files
+git commit -m "message" -> commit files
+git push -> push changes to github
 
-demo url                    -> https://koradiyanirav.github.io
+demo url -> https://koradiyanirav.github.io
 
 - 👋 Hi, I’m @koradiyanirav
 - 👀 I’m interested in ...
